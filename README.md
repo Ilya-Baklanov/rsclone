@@ -1,2 +1,2 @@
-#CardGame
+# CardGame
 [CardGame](https://card-game-hfe.herokuapp.com/)
